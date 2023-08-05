@@ -6,7 +6,12 @@ package UAS2;
 
 /**
  *
- * @author AGUS WIDAKSONO ( 22104410069 )
+ * AGUS WIDAKSONO ( 22104410069 )
+ * AGI PRANATA ( 22104410102 )
+ * AWANDA SUCI M (22104413001 )
+ * FATIKHATUL TRISNA A (22104410085 )
+ * TERY TAOZAKA A ( 22104413002 )
+ * 
  */
 public class Main {
     public static void main(String[] args) {
@@ -21,9 +26,10 @@ public class Main {
     }
 }
 
-
+// TOKEN GITHUB 
+//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
 //Penjelasan:
 //
 //Interface Pajak mendefinisikan variabel konstan PAJAK dengan nilai 0.01, yang merepresentasikan 1% untuk PPN.
-//Class Smartphone mengimplementasikan interface Pajak dan mengoverride metode hitungHargaSetelahPPN berdasarkan aturan pajak yang telah diberikan. Metode tampilkanHargaSetelahPPN menampilkan harga setiap smartphone setelah ditambahkan PPN.
-//Di class Main, kita membuat instance dari class Smartphone dan memanggil metode tampilkanHargaSetelahPPN untuk menampilkan harga setiap smartphone setelah ditambahkan PPN.
+//Class Smartphone mengimplementasikan interface Pajak dan mengoverride metode hitungHargaSetelahPPN berdasarkan aturan pajak yang telah diberikan. 
+//Metode tampilkanHargaSetelahPPN menampilkan harga setiap smartphone setelah ditambahkan PPN.
