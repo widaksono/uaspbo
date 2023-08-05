@@ -28,8 +28,3 @@ public class Main {
 }
 
 
-//Penjelasan:
-//
-//Interface Pajak mendefinisikan variabel konstan PAJAK dengan nilai 0.01, yang merepresentasikan 1% untuk PPN.
-//Class Smartphone mengimplementasikan interface Pajak dan mengoverride metode hitungHargaSetelahPPN berdasarkan aturan pajak yang telah diberikan. 
-//Metode tampilkanHargaSetelahPPN menampilkan harga setiap smartphone setelah ditambahkan PPN.
