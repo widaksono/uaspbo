@@ -43,5 +43,3 @@ public class Smartphone implements Pajak {
     }
 }
 
-
-//class Smartphone yang mengimplementasikan interface Pajak. Class ini harus memiliki constructor dengan tiga parameter (vendor, tipe, harga). Metode hitungHargaSetelahPPN akan menghitung harga smartphone setelah ditambahkan PPN berdasarkan aturan pajak yang telah diberikan.
