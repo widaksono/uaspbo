@@ -27,7 +27,7 @@ public class Main {
 }
 
 // TOKEN GITHUB 
-//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
+//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
 //Penjelasan:
 //
 //Interface Pajak mendefinisikan variabel konstan PAJAK dengan nilai 0.01, yang merepresentasikan 1% untuk PPN.

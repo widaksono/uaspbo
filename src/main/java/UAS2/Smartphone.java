@@ -27,11 +27,11 @@ public class Smartphone implements Pajak {
     @Override
     public double hitungHargaSetelahPPN(double harga) {
         if (harga > 4500000) {
-            return harga + (harga * PAJAK*5 ); // PPN 5%
+            return harga + (harga * 0.05); // PPN 5%
         } else if (harga > 4200000) {
-            return harga + (harga * PAJAK*2); // PPN 2%
+            return harga + (harga * 0.02); // PPN 2%
         } else if (harga > 4000000) {
-            return harga + (harga * PAJAK); // PPN 1%
+            return harga + (harga * PAJAK ); // PPN 1%
         } else {
             return harga; // Tanpa PPN
         }
